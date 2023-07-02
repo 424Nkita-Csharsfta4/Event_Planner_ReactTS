@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+![image](https://github.com/424Nkita-Csharsfta4/Event_Planner_ReactTS/assets/103760832/ea31f3e5-3035-41e9-a64d-c1321e9b5d33)
+
+![image](https://github.com/424Nkita-Csharsfta4/Event_Planner_ReactTS/assets/103760832/f2a6b320-72c7-492f-a6f1-0bef3ee073c2)
+
+![image](https://github.com/424Nkita-Csharsfta4/Event_Planner_ReactTS/assets/103760832/f6d727c1-4376-4245-a59e-a2db873e9681)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
