@@ -1,0 +1,44 @@
+.add-event-form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.form-input {
+  padding: 8px;
+  margin-bottom: 8px;
+  animation: slideIn 0.5s ease-in-out;
+}
+
+.form-submit-btn {
+  padding: 8px 16px;
+  background-color: #ebff50f9;
+  color: #090606;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  animation: slideIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
